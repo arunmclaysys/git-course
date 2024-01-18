@@ -1,4 +1,4 @@
 Get the user data...
 Process the user data.
 
-Adding a new Avatar and expeiment it.
+Adding a new Avatar and experiment it.
